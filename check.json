@@ -1,5 +1,5 @@
 {
   "version": "2.0",
-  "stopApp": false,
-  "msg": 1
+  "stopApp": true,
+  "msg": 0
 }
