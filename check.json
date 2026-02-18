@@ -1,6 +1,6 @@
 {
-  "version": "5.0",
-  "stopApp": false,
+  "version": "4.0",
+  "stopApp": true,
   "msg": 0,
   "alone": "1.0,2.0"
 }
